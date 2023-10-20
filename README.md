@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @getyrno or young teem leader
+- 👀 I’m interested in creating own messenger
+- 🌱 I’m currently learning ml, ai, sql, frontend (angular), python, 
+- 💞️ I would like to work in Telegram
+- 📫 Telegram: getyrno
